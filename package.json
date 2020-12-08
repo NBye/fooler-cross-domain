@@ -1,0 +1,24 @@
+{
+  "name": "fooler-cross-domain",
+  "version": "1.0.0",
+  "description": "fooler 跨域组件",
+  "main": "src/fooler-cross-domain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBye/fooler-cross-domain.git"
+  },
+  "keywords": [
+    "fooler",
+    "cross",
+    "domain"
+  ],
+  "author": "NBye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBye/fooler-cross-domain/issues"
+  },
+  "homepage": "https://github.com/NBye/fooler-cross-domain#readme"
+}
